@@ -10,7 +10,7 @@ The Pump Water Management App is a smart, offline application designed to help u
 >
 > Watch the video demonstration below to see the app in action:
 >
-> [![Watch the video](src-tauri/icons/32x32.png)](https://youtube.com/shorts/6q8CI5jlvms?feature=share)
+> [![Watch the video](./src-tauri/icons/32x32.png)](https://youtube.com/shorts/6q8CI5jlvms?feature=share)
 >
 > And to download the apk for android. Click the **Release** button on the right side of this page .
 
@@ -99,9 +99,9 @@ Check out the demo images below to see the app in action:
 
 | Col 1                        | Col 2                        | Col 3                        | Col 4                        |
 | ---------------------------- | ---------------------------- | ---------------------------- | ---------------------------- |
-| ![Image 1](doc_assets/1.png) | ![Image 2](doc_assets/2.png) | ![Image 3](doc_assets/3.png) | ![Image 4](doc_assets/4.png) |
-| ![Image 5](doc_assets/5.png) | ![Image 6](doc_assets/6.png)  | ![Image 7](doc_assets/7.png) | ![Image 8](doc_assets/8.png) |
-| ![Image 9](doc_assets/9.png) | ![Image 10](doc_assets/10.png)  | ![Image 11](doc_assets/11.png) | ![Image 12](doc_assets/12.png) |
+| ![Image 1](./doc_assets/1.png) | ![Image 2](./doc_assets/2.png) | ![Image 3](./doc_assets/3.png) | ![Image 4](./doc_assets/4.png) |
+| ![Image 5](./doc_assets/5.png) | ![Image 6](./doc_assets/6.png)  | ![Image 7](./doc_assets/7.png) | ![Image 8](./doc_assets/8.png) |
+| ![Image 9](./doc_assets/9.png) | ![Image 10](./doc_assets/10.png)  | ![Image 11](./doc_assets/11.png) | ![Image 12](./doc_assets/12.png) |
 
 ## Contributing
 
